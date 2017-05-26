@@ -1,5 +1,7 @@
 # NTFS Bug
 
+Seems to only work on Windows 7 when opened in IE.
+
 It might crash your system, dont click links you don't trust.
 
 You should not trust links from me.
