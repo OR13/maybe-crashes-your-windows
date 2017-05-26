@@ -6,7 +6,7 @@ It might crash your system, dont click links you don't trust.
 
 You should not trust links from me.
 
-[Maybe Crashes Your Windows](https://or13.github.io/windows/)
+[Maybe Crashes Your Windows](https://or13.github.io/maybe-crashes-your-windows/)
 
 ## Read More
 - https://news.ycombinator.com/item?id=14422706
